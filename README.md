@@ -25,6 +25,12 @@ Firebase (para autenticación y almacenamiento de datos)
 
 1.Clona el repositorio:
 git clone https://github.com/tu-usuario/recmm.git
+
+
 2.Abre el proyecto en Android Studio.
+
+
 3.Sincroniza el proyecto con Gradle y resuelve las dependencias.
+
+
 4.Ejecuta la aplicación en un emulador o dispositivo Android.
