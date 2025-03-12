@@ -9,8 +9,11 @@ RECM es una aplicación móvil desarrollada en Kotlin para Android que permite a
 
 
 -Guardar Recetas Propias: Los usuarios pueden añadir y guardar sus recetas personales.
+
 -Gestionar Recetas: Edición y actualización de recetas propias.
+
 -Explorar Recetas de Otros: Acceso a un catálogo de recetas creadas por otros usuarios, con opción de visualización pero no de edición.
+
 -Personalización de Recetas: Ajuste de ingredientes y procedimientos según las preferencias personales.
 
 ---Tecnologías Utilizadas---
