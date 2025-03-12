@@ -17,7 +17,11 @@ RECM es una aplicación móvil desarrollada en Kotlin para Android que permite a
 
 
 Kotlin
+
+
 Android Studio
+
+
 Firebase (para autenticación y almacenamiento de datos)
 
 ---Instalación---
