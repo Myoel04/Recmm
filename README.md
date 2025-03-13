@@ -29,10 +29,3 @@ git clone https://github.com/tu-usuario/recmm.git
 3. Sincroniza el proyecto con Gradle y resuelve las dependencias.
 4. Ejecuta la aplicación en un emulador o dispositivo Android.
 
-## Contribuir
-
-Si deseas contribuir a mejorar RECM o tienes sugerencias, no dudes en abrir un 'issue' o enviar un 'pull request'.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE` en este repositorio.
